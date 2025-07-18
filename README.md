@@ -1,4 +1,4 @@
- Hello, I'm **Swetha Nagaraj**
+ Hello, I'm **Swetha**
 
 I'm currently pursuing my Bachelor's Degree in **Computer Science and Design**.
 
